@@ -45,7 +45,9 @@ hands-on projects and building a strong portfolio.
 - NLP: NLTK, spaCy  
 
 **Tools**
-- Jupyter Notebook  
+- Jupyter Notebook
+- Vs Code
+- PowerBi
 - GitHub (Web)  
 
 ---
