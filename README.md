@@ -6,7 +6,7 @@
 📍 Morocco  
 📧 Email: walidrafiki211@gmail.com 
 🔗 LinkedIn: coming soon  
-🐙 GitHub: @CHIS4KII  
+🐙 GitHub: @ScientistOualid  
 
 ---
 
